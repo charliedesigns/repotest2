@@ -1,10 +1,10 @@
-export const templateConfig = {
-    banner: {
-      title: "Welcome",
-      subtitle: "This is a customizable banner.",
-      bgColor: "#ff5722",
-      textColor: "#ffffff"
-    },
 
-  };
-  
+      export const templateConfig = {
+        banner: {
+  "title": "title text",
+  "subtitle": "new subtitle",
+  "bgColor": "#ff5722",
+  "textColor": "#000000"
+}
+      };
+    
